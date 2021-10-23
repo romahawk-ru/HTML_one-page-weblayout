@@ -1,1 +1,1 @@
-# one-page-layout
+# one-page-weblayout
